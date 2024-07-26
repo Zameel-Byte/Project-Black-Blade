@@ -1,7 +1,1 @@
-## Robot Package Template
-
-This is a GitHub template. You can make your own copy by clicking the green "Use this template" button.
-
-It is recommended that you keep the repo/package name the same, but if you do change it, ensure you do a "Find all" using your IDE (or the built-in GitHub IDE by hitting the `.` key) and rename all instances of `my_bot` to whatever your project's name is.
-
-Note that each directory currently has at least one file in it to ensure that git tracks the files (and, consequently, that a fresh clone has direcctories present for CMake to find). These example files can be removed if required (and the directories can be removed if `CMakeLists.txt` is adjusted accordingly).
+Ah, **Project Black Blade**—that name resonates with intrigue and a touch of mystery! 🌑🗡️ It's like the title of a cyberpunk novel or the secret codename for a covert mission.  Picture it: Your Autonomous Mobile Robot (AMR) gliding silently through the digital shadows, its wheels as sharp as obsidian. Is it on a quest for forbidden algorithms? Or perhaps it guards the gates of a virtual citadel. Whatever its purpose, one thing's for sure—it's not your average bot.  So, my friend, let **Project Black Blade** cut through the noise, leave digital trails, and etch its legend into the binary archives. 🚀✨  And remember, every great project needs a name that sparks curiosity. May your Black Blade slice through challenges and code alike! ⚔️🔍
